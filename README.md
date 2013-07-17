@@ -1,2 +1,2 @@
-perferences
+dot files
 ===========
