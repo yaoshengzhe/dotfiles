@@ -1,0 +1,16 @@
+[user]
+	name = Shengzhe Yao
+	email = yaoshengzhe@gmail.com
+[alias]
+	co = checkout
+	c = commit
+	b = branch
+	s = status
+	p = push
+[color]
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
+[core]
+	editor = emacs
