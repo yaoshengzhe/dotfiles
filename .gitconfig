@@ -13,4 +13,4 @@
 	interactive = auto
 	status = auto
 [core]
-	editor = emacs
+	editor = e
