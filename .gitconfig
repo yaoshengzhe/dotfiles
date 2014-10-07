@@ -14,3 +14,5 @@
 	status = auto
 [core]
 	editor = e
+[push]
+	default = simple
