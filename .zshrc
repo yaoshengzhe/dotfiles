@@ -66,3 +66,9 @@ function rm () {
     fi
   done
 }
+
+# automatically start emacs daemon
+EMACS_SERVER_STATUS=`ps aux | grep "emacs --daemon" | wc -l | tr -d ' '`
+if [ "$EMACS_SERVER_STATUS" = "1" ]; then
+    erestart
+fi
