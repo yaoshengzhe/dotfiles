@@ -6,3 +6,5 @@ alias eamcs='emacs'
 alias ll='ls -la'
 alias showmake='grep ^[a-z].*\:$ Makefile | sed s,:,,g'
 alias json='python -mjson.tool '
+
+export TERM=xterm-256color
