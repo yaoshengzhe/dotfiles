@@ -69,105 +69,43 @@
     "Red Component" : 0.94117647409439087
   },
   "Keyboard Map" : {
-    "0x5e-0x60000" : {
-      "Text" : "0x1e",
-      "Action" : 11
+    "0xf728-0x80000" : {
+      "Action" : 10,
+      "Text" : "d"
     },
-    "0xf702-0x280000" : {
+    "0xf702-0x240000-0x7b" : {
+      "Version" : 2,
+      "Apply Mode" : 0,
+      "Action" : 10,
       "Text" : "b",
-      "Action" : 10
+      "Escaping" : 1
     },
-    "0xf702-0x260000" : {
-      "Text" : "0x1b 0x1b 0x5b 0x44",
-      "Action" : 11
+    "0xf702-0x300000" : {
+      "Action" : 11,
+      "Text" : "0x1"
     },
-    "0xf703-0x280000" : {
+    "0xf703-0x240000-0x7c" : {
+      "Version" : 2,
+      "Apply Mode" : 0,
+      "Action" : 10,
       "Text" : "f",
-      "Action" : 10
+      "Escaping" : 1
     },
-    "0xf70a-0x20000" : {
-      "Text" : "[28~",
-      "Action" : 10
+    "0x7f-0x100000" : {
+      "Action" : 11,
+      "Text" : "0x15"
     },
-    "0xf703-0x260000" : {
-      "Text" : "[C",
-      "Action" : 10
+    "0xf703-0x300000" : {
+      "Action" : 11,
+      "Text" : "0x5"
     },
-    "0xf702-0x220000" : {
-      "Text" : "[D",
-      "Action" : 10
+    "0x7f-0x80000" : {
+      "Action" : 11,
+      "Text" : "0x1b 0x7f"
     },
-    "0xf703-0x240000" : {
-      "Text" : "f",
-      "Action" : 10
-    },
-    "0xf702-0x240000" : {
-      "Text" : "b",
-      "Action" : 10
-    },
-    "0xf703-0x220000" : {
-      "Text" : "[C",
-      "Action" : 10
-    },
-    "0xf700-0x280000" : {
-      "Text" : "[A",
-      "Action" : 10
-    },
-    "0xf72b-0x20000" : {
-      "Text" : "[F",
-      "Action" : 10
-    },
-    "0xf700-0x260000" : {
-      "Text" : "[A",
-      "Action" : 10
-    },
-    "0xf701-0x280000" : {
-      "Text" : "[B",
-      "Action" : 10
-    },
-    "0xf700-0x240000" : {
-      "Text" : "[A",
-      "Action" : 10
-    },
-    "0xf701-0x260000" : {
-      "Text" : "[B",
-      "Action" : 10
-    },
-    "0xf700-0x220000" : {
-      "Text" : "[A",
-      "Action" : 10
-    },
-    "0xf701-0x240000" : {
-      "Text" : "[B",
-      "Action" : 10
-    },
-    "0xf72b-0x40000" : {
-      "Text" : "",
-      "Action" : 4
-    },
-    "0xf708-0x20000" : {
-      "Text" : "[25~",
-      "Action" : 10
-    },
-    "0xf701-0x220000" : {
-      "Text" : "[B",
-      "Action" : 10
-    },
-    "0xf709-0x20000" : {
-      "Text" : "[26~",
-      "Action" : 10
-    },
-    "0xf70b-0x20000" : {
-      "Text" : "[29~",
-      "Action" : 10
-    },
-    "0xf729-0x20000" : {
-      "Text" : "[H",
-      "Action" : 10
-    },
-    "0xf729-0x40000" : {
-      "Text" : "",
-      "Action" : 5
+    "0xf728-0x0" : {
+      "Action" : 11,
+      "Text" : "0x4"
     }
   },
   "Visual Bell" : true,
@@ -447,6 +385,7 @@
     "Blue Component" : 0.3333333432674408,
     "Red Component" : 1
   },
+  "Icon" : 1,
   "Bold Color (Light)" : {
     "Green Component" : 0.84313726425170898,
     "Blue Component" : 0,
@@ -475,7 +414,7 @@
     "Alpha Component" : 0.25,
     "Green Component" : 0.92047786712646484
   },
-  "Custom Directory" : "No",
+  "Custom Directory" : "Recycle",
   "Working Directory" : "\/Users\/shengzhe",
   "ASCII Anti Aliased" : true,
   "Shortcut" : "",
@@ -483,6 +422,7 @@
   "Tags" : [
 
   ],
+  "Left Control Key" : 0,
   "Ansi 6 Color (Light)" : {
     "Green Component" : 0.62745100259780884,
     "Blue Component" : 0.62745100259780884,
